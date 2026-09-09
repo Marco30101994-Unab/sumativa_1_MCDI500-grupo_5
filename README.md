@@ -1,24 +1,24 @@
-\# Sumativa 1 MCDI500
+# Sumativa 1 MCDI500
 
 
 
-\## Integrantes Grupo 5
+## Integrantes Grupo 5
 
 
 
-\- MARCO ÁLVAREZ ARAYA
+- MARCO ÁLVAREZ ARAYA
 
-\- LISHY CORTES ASTUDILLO
+- LISHY CORTES ASTUDILLO
 
-\- MARÍA FASSLER NEUMANN
+- MARÍA FASSLER NEUMANN
 
-\- RICARDO JARAMILLO PULGAR
-
-
+- RICARDO JARAMILLO PULGAR
 
 
 
-\## Descripción del Proyecto
+
+
+## Descripción del Proyecto
 
 
 
@@ -26,21 +26,21 @@ Se está buscando repositorio de acuerdo a lo señalado en clases del día lunes
 
 
 
-\## Datos del Proyecto
+## Datos del Proyecto
 
 
 
-\- Fuente: Pendiente
+- Fuente: Pendiente
 
-\- Enlace de descarga: Pendiente
+- Enlace de descarga: Pendiente
 
-\- Ubicación del archivo original: `data/raw/`.
+- Ubicación del archivo original: `data/raw/`.
 
-\- Ubicación del archivo procesado: `data/processed/`.
+- Ubicación del archivo procesado: `data/processed/`.
 
 
 
-\## Estructura del repositorio
+## Estructura del repositorio
 
 
 
@@ -66,19 +66,19 @@ F4/              fase posterior del proyecto
 
 
 
-\## Requisitos
+## Requisitos
 
 
 
-\- Python 3.13
+- Python 3.13
 
-\- Entorno virtual `.venv`
+- Entorno virtual `.venv`
 
-\- Dependencias declaradas en `requirements.txt`
+- Dependencias declaradas en `requirements.txt`
 
 
 
-\## Preparación del entorno
+## Preparación del entorno
 
 
 
@@ -92,7 +92,7 @@ python -m pip install -r requirements.txt
 
 
 
-\## Ejecución de los notebooks
+## Ejecución de los notebooks
 
 
 
@@ -108,7 +108,7 @@ En JupyterLab se ejecutarán los notebooks de F1 y F2 en orden.
 
 
 
-\## Reproducibilidad
+## Reproducibilidad
 
 
 
@@ -116,7 +116,7 @@ El proyecto usa rutas relativas y registra las versiones de sus librerías en `r
 
 
 
-\## Control de versiones
+## Control de versiones
 
 
 
@@ -124,11 +124,11 @@ Los commits utilizarán los siguientes prefijos:
 
 
 
-\- `docs:` documentación o README.
+- `docs:` documentación o README.
 
-\- `data:` incorporación o actualización de datos.
+- `data:` incorporación o actualización de datos.
 
-\- `feat:` nueva funcionalidad.
+- `feat:` nueva funcionalidad.
 
-\- `fix:` corrección de un error.
+- `fix:` corrección de un error.
 
