@@ -1,0 +1,16 @@
+# Entorno virtual de Python
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Archivos generados por Windows
+Thumbs.db
+desktop.ini
+
+# Información confidencial
+.env
