@@ -8,11 +8,10 @@
 
 - MARCO ÁLVAREZ ARAYA
 
-- LISHY CORTES ASTUDILLO
+- RICARDO JARAMILLO PULGAR
 
 - MARÍA FASSLER NEUMANN
 
-- RICARDO JARAMILLO PULGAR
 
 
 
@@ -22,7 +21,7 @@
 
 
 
-Se está buscando repositorio de acuerdo a lo señalado en clases del día lunes. Cuando se defina el tema, se actualiza este apartado.
+Se define el repositorio
 
 
 
@@ -40,7 +39,7 @@ Se está buscando repositorio de acuerdo a lo señalado en clases del día lunes
 
 
 
-## Estructura del repositorio
+## Estructura del repositorio Active_Street-Use_Permits_20260909 del día 09-09-26
 
 
 
