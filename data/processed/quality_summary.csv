@@ -1,0 +1,30 @@
+,valores_faltantes,porcentaje
+CurbRampWork,6608,96.44
+bpa,6555,95.67
+permit_address,4321,63.06
+Inspector,2505,36.56
+Permit Purpose,1712,24.99
+Cross Street 2,1000,14.59
+permit_start_date,835,12.19
+permit_end_date,711,10.38
+24/7 Contact,202,2.95
+AgentPhone,109,1.59
+Approved Date,18,0.26
+Agent,9,0.13
+X,8,0.12
+Y,8,0.12
+analysis_neighborhood,3,0.04
+supervisor_district,2,0.03
+Location,0,0.0
+Longitude,0,0.0
+data_as_of,0,0.0
+the_geom,0,0.0
+permit_number,0,0.0
+Latitude,0,0.0
+streetname,0,0.0
+permit_zipcode,0,0.0
+cnn,0,0.0
+Status,0,0.0
+Permit Type,0,0.0
+Cross Street 1,0,0.0
+data_loaded_at,0,0.0
